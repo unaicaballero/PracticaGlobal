@@ -1,0 +1,1 @@
+Desarrolla una aplicación en Java por consola que permita al usuario calcular el área y el perímetro de diferentes figuras geométricas (círculo, rectángulo y triángulo). El programa debe estar estructurado utilizando los principios de la Programación Orientada a Objetos (POO) y debe aplicar los fundamentos de programación vistos en clase.
